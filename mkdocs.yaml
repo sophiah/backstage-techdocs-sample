@@ -3,6 +3,8 @@ site_name: 'backstage-sample-techdocs'
 plugins:
   - techdocs-core
 
+docs_dir: ./
+
 nav:
   - Home: README.md
   - Lib 1:
