@@ -1,0 +1,11 @@
+site_name: 'backstage-sample-techdocs'
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Home: README.md
+  - Lib 1:
+      - Lib 1: 'lib1/README.md'
+  - Lib 2: 'lib2/README.md'
+  - Lib 3: 'lib3/README.md'
